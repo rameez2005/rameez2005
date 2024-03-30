@@ -26,22 +26,15 @@
   <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
 </p>
 
-<!-- Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameez2005&layout=compact&theme=radical" alt="Top Languages">
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rameez2005&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
+
 
 <!-- Connect -->
 <p align="center">
   <samp>
     Let's connect! Reach out to me for collaborations or just to share your latest exploits. 😎
     <br>
-    <a href="mailto:rameez@example.com">Email</a> |
-    <a href="https://linkedin.com/in/rameez2005">LinkedIn</a> |
-    <a href="https://twitter.com/rameez2005">Twitter</a>
+    <a href="mailto:sw32722@gmai.com">Email</a> |
+    <a href="https://www.linkedin.com/in/muhammad-rameez-636a42289/">LinkedIn</a> |
   </samp>
 </p>
