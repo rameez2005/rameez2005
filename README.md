@@ -6,9 +6,7 @@
 <h1 align="center">Hacker Extraordinaire</h1>
 
 <!-- ASCII Art -->
-<p align="center">
-  <img src="https://media.giphy.com/media/1rMkx4rCr9Bxu7aHsl/giphy.gif" width="300">
-</p>
+
 
 <!-- Intro -->
 <p align="center">
