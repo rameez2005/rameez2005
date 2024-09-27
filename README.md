@@ -34,6 +34,6 @@
     Let's connect! Reach out to me for collaborations or just to share your latest projects. 😎
     <br>
     <a href="mailto:sw32722@gmai.com">Email</a> |
-    <a href="https://www.linkedin.com/in/muhammad-rameez-636a42289/">LinkedIn</a> |
+    <a href="https://www.linkedin.com/in/muhammad-rameez-636a42289/">LinkedIn</a> 
   </samp>
 </p>
